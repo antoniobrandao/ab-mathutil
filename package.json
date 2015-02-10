@@ -1,0 +1,20 @@
+{
+  "name": "ab-mathutil",
+  "version": "0.0.1",
+  "description": "JavaScript Math utils",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "math"
+  ],
+  "license": "MIT",
+  "author": "Antonio Brandao <antoniobrandaodesign@gmail.com> (http://www.antoniobrandao.com/)",
+  "homepage": "https://github.com/antoniobrandao/ab-mathutil",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoniobrandao/ab-mathutil"
+  },
+  "bugs": {
+    "url": "https://github.com/antoniobrandao/ab-mathutil/issues"
+  }
+}
